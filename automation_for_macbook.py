@@ -42,7 +42,7 @@ pyautogui.write('npm run dev')
 pyautogui.press('enter')
 
 # Open browser and access local development URL
-time.sleep(2)
+time.sleep(3)
 os.system("open -a 'Google Chrome'")
 time.sleep(1)
 pyautogui.write('http://localhost:5173')
