@@ -31,7 +31,7 @@ pyautogui.press('enter')
 time.sleep(1)
 pyautogui.click(x=422, y=7)
 pyautogui.click(x=422, y=38)
-time.sleep(2)
+time.sleep(3)
 pyautogui.click(x=539, y=716)
 
 # Install dependencies and start development server
