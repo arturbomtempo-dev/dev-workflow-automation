@@ -48,9 +48,7 @@ All core automation steps in this project have been fully implemented and are re
 
 This project includes automation scripts for both Windows and macOS, allowing you to see how the workflow behaves across different operating systems. In the video below, you can watch a full example of the automation running end-to-end before reviewing the setup instructions.
 
-<video controls width="800" aria-label="Workflow demonstration">
-    <source src="./resources/demo/demo-video.mov" type="video">
-</video>
+![Demo](./resources/demo/demo.gif)
 
 ### ⚙️ Prerequisites
 
